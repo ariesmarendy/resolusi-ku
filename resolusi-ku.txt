@@ -1,0 +1,4 @@
+Resolusi Ku
+- Memahami development aplikasi mobile menggunakan react-native
+- Memahami development aplikasi web menggunakan react-native
+- Membuat aplikasi mobile & web
