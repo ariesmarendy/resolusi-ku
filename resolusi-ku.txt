@@ -2,5 +2,5 @@ Resolusi Ku
 - Memahami development aplikasi mobile menggunakan react-native
 - Memahami development aplikasi web menggunakan react-native
 - Membuat aplikasi mobile & web
-- Migrasi sistem ke Odoo
 - Membuat report dengan react-native menggunakan API Odoo/XMLRpc
+- Membuat Web Blog
