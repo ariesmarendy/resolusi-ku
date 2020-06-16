@@ -3,6 +3,7 @@ Rencana App Ku
   *Report master
   *Report transaksi
    ^Transaksi purchase
+   ^Transaksi sales
 - Mobile print
 - Web report
   *Report master
