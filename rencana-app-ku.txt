@@ -4,7 +4,12 @@ Rencana App Ku
   *Report transaksi
    ^Transaksi BC
    ^Transaksi penerimaan
+   ^Transaksi purchase
+   ^Transaksi sales   
 - Web report
   ^Report graph
+  ^Report master
+- Mobile print
 - Visual tracing mobile
 - Visual tracing web
+- Visual activity
